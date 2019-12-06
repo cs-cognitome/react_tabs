@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_tabs/static/css/main.cb6aa723.chunk.css",
+    "main.js": "/react_tabs/static/js/main.671f6650.chunk.js",
+    "main.js.map": "/react_tabs/static/js/main.671f6650.chunk.js.map",
+    "runtime~main.js": "/react_tabs/static/js/runtime~main.310f5775.js",
+    "runtime~main.js.map": "/react_tabs/static/js/runtime~main.310f5775.js.map",
+    "static/js/2.345f8e30.chunk.js": "/react_tabs/static/js/2.345f8e30.chunk.js",
+    "static/js/2.345f8e30.chunk.js.map": "/react_tabs/static/js/2.345f8e30.chunk.js.map",
+    "index.html": "/react_tabs/index.html",
+    "precache-manifest.cf0fba471d9366e8f4c96ebec80ab36b.js": "/react_tabs/precache-manifest.cf0fba471d9366e8f4c96ebec80ab36b.js",
+    "service-worker.js": "/react_tabs/service-worker.js",
+    "static/css/main.cb6aa723.chunk.css.map": "/react_tabs/static/css/main.cb6aa723.chunk.css.map",
+    "static/media/App.css": "/react_tabs/static/media/alice_bgr.0c1defc7.png"
+  }
+}
